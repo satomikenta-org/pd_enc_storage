@@ -32,7 +32,7 @@
     "bootstrap": "yarn example && yarn && yarn pods"
   },
   "keywords": [],
-  "repository": "https://github.com/emeraldsanto/react-native-encrypted-storage",
+  "repository": "https://github.com/satomikenta-org/pd_enc_storage",
   "author": "stm",
   "license": "MIT",
   "bugs": {

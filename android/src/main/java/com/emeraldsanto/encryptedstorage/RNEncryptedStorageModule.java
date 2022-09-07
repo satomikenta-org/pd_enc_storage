@@ -13,7 +13,7 @@ import com.facebook.react.bridge.ReactMethod;
 public class RNEncryptedStorageModule extends ReactContextBaseJavaModule {
 
     private static final String NATIVE_MODULE_NAME = "RNEncryptedStorage";
-    private static final String SHARED_PREFERENCES_FILENAME = "RN_ENCRYPTED_STORAGE_SHARED_PREF";
+    private static final String SHARED_PREFERENCES_FILENAME = "jp.co.eisai.padico.encrypted.data.txt";
 
     private SharedPreferences sharedPreferences;
 

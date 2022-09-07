@@ -38,7 +38,7 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "",
+  "homepage": "https://github.com/emeraldsanto/react-native-encrypted-storage#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
